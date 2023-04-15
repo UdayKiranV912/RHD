@@ -1,2 +1,2 @@
 # RHD
-Resource Data Hidding
+Resource Data Hiding
